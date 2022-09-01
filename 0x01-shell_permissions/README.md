@@ -28,3 +28,9 @@ TASK 12:The script with $ "mkdir -m 751 my_dir" in the working directory, makes 
 TASK 13:$ "chgrp school hello" the command line in the script changes the gorup owner to (school) for the file (hello).
 
 TASK 14:$ "chown betty:school * " Change owner to betty and the group owner to school for all files and directories in current directory.
+
+TASK 15:The script ($ "chown -h vincent:staff _hello " ) changes the owner and group owner of file (_hello) to vincent and staff respectively.
+
+TASK 16:$ "chown --from=guillaume betty hello" this commamd occurs only if guillaume is the current owner, changes the ownership of the file (hello) to betty.
+
+TASK 17: Wow very interesting script. actually fun , in the terminal the script plays the Star Wars IV episode. i believe its a prewritten script that is available online.
